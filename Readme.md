@@ -12,7 +12,7 @@ Batch file（批处理）
 
 [CheckSecCopy](https://github.com/Charles-Miao/Batch-in-Action/tree/master/2013/CheckSecCopy),检查SecCopy软件是否有报错
 
-[CheckSSD](C:\Users\Charles\Desktop\Batch-in-Action\2013\CheckSSD)，检查SSD是否有掉盘
+[CheckSSD](https://github.com/Charles-Miao/Batch-in-Action/tree/master/2013/CheckSSD)，检查SSD是否有掉盘
 
 [CheckSVN](https://github.com/Charles-Miao/Batch-in-Action/tree/master/2013/CheckSVN)，检查SVN的版本是否变化，并生成报告
 
