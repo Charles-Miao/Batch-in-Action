@@ -6,6 +6,9 @@ Batch file（批处理）
 
 [syncFileServer](https://github.com/Charles-Miao/Batch-in-Action/tree/master/2025/syncFileServer)，同步文件服务器上的文件到本地
 
+- 同步方式：robocopy增量同步，非/mir同步，仅复制新增/更新的文件（保留目标目录中的其他文件）
+- 同步频率：15分钟同步一次，一次大约10秒左右
+
 2017
 ---
 
